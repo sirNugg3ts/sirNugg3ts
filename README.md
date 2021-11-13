@@ -14,7 +14,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Java, JS / NodeJS**
+- 🌱 I’m currently learning **.Net & Kotlin**
 
 - ⚡ Fun fact - **I'm powered by caffeine**, but I'm not a fan of coffee
 
