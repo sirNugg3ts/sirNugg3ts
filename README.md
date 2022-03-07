@@ -12,7 +12,7 @@
 ---
 <br>
 
-- 🔭 I’m currently studying @ ISEC
+- 🔭 I’m currently studying @ ISEC and helping Uuvana Studios with Longvinter
   
 
 - ⚡ Powered by: Nuggets & Cheddar Cheese  
