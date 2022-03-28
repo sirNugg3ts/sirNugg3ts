@@ -3,7 +3,7 @@
 
 # <div align="center">Hi there 👋 I'm Diogo <br/></div>
 ### Yet Another Computer Engineering Student
-##### Studying at ISEC, Coimbra
+##### Studying at ISEC, Coimbra & Intership @ Noesis
 
 ---
 
@@ -12,7 +12,7 @@
 ---
 <br>
 
-- 🔭 I’m currently studying @ ISEC and helping Uuvana Studios with Longvinter
+- 🔭 I’m currently studying @ ISEC and helping Uuvana Studios with Longvinter, while doing my Internship at Noesis
   
 
 - ⚡ Powered by: Nuggets & Cheddar Cheese  
