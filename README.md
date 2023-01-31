@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Diogo, A Computer Enginnering Student finishing is degree at ISEC 👨‍💻 </div>  
+### <div align="center">I'm Diogo, A Computer Enginner coming out fresh from ISEC 👨‍💻 </div>  
   
 
-###### **YACES - Yet Another Computer Engineering Student**  
+###### **YACE - Yet Another Computer Engineer**  
   
 
-- 🔭 I’m currently working on finishing my degree  
+- 🔭 I’m currently working looking for a job
   
 
 - 🌱 I’m currently learning abp.io framework and Angular  
