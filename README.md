@@ -9,10 +9,10 @@
 ###### **YACE - Yet Another Computer Engineer**  
   
 
-- 🔭 I’m currently working looking for a job
+- 🔭 I’m currently working @ Noesis
   
 
-- 🌱 I’m currently learning abp.io framework and Angular  
+- 🌱 I’m currently learning Sitecore  
   
 
 - ⚡ Fun fact: I'm powered by Nuggets and Coca-Cola mostly. I also do some photos and DJ in my spare time  
